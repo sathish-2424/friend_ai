@@ -6,7 +6,7 @@ let btn=document.querySelector("button")
 let text=document.querySelector("#text")
 let output=document.querySelector(".output")
 
-const Api_url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD8fCS0zoTMRUMocriHEE9I7VgpYAi4MRs"
+const Api_url="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=Your API Key"
 
 let fileDetails={
     mime_type:null,
